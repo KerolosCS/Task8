@@ -36,7 +36,7 @@ void main() {
   );
   school.info();
   school.removeStudent('girl1');
-  // school.info();
+  school.info();
 }
 
 //Task 1
